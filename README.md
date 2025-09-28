@@ -1,3 +1,4 @@
+# Bus_Reservation_Management
 🚍 Bus Reservation System
 
 The Bus Reservation System is a Core Java-based application designed to automate and simplify bus ticket booking. It provides passengers with a smooth and reliable booking experience by allowing them to register, view buses, check seat availability, and reserve seats instantly. The system reduces manual errors, enhances accuracy, and streamlines passenger and bus management.
